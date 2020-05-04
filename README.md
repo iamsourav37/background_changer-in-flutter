@@ -1,4 +1,4 @@
-# bg_changer
+# Background color changer app in Flutter
 
 A new Flutter project.
 
