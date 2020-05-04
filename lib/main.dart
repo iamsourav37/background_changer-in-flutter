@@ -11,14 +11,6 @@ class MyApp extends StatelessWidget {
       theme: ThemeData.dark(),
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        appBar: AppBar(
-          title: Text(
-            "Random Background",
-            style: TextStyle(
-              fontSize: 20.0,
-            ),
-          ),
-        ),
         body: HomePage(),
       ),
     );
